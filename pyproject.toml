@@ -1,0 +1,19 @@
+[project]
+name = "recommender-system"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "cudf-cu12>=25.8.0",
+    "ipykernel>=6.30.1",
+    "jupytext>=1.17.3",
+    "kagglehub>=0.3.13",
+    "matplotlib>=3.10.6",
+    "nltk>=3.9.1",
+    "notebook>=7.4.7",
+    "pandas>=2.3.3",
+    "polars>=1.34.0",
+    "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+]
