@@ -2036,6 +2036,7 @@ dependencies = [
     { name = "polars" },
     { name = "scikit-learn" },
     { name = "seaborn" },
+    { name = "tqdm" },
 ]
 
 [package.metadata]
@@ -2051,6 +2052,7 @@ requires-dist = [
     { name = "polars", specifier = ">=1.34.0" },
     { name = "scikit-learn", specifier = ">=1.7.2" },
     { name = "seaborn", specifier = ">=0.13.2" },
+    { name = "tqdm", specifier = ">=4.67.1" },
 ]
 
 [[package]]
