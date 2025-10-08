@@ -1,5 +1,10 @@
 # Sistema de Recomendação de Filmes
 
+[![Python](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/)
+[![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?logo=Jupyter)](https://jupyter.org/)
+
+---
+
 Implementação educacional de dois algoritmos fundamentais de sistemas de recomendação baseada no livro "Practical Recommender Systems" de Kim Falk.
 
 ## Visão Geral
