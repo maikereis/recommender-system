@@ -98,7 +98,7 @@ prompt-toolkit==3.0.52
 psutil==7.1.0
 ptyprocess==0.7.0
 pure-eval==0.2.3
-pyarrow==19.0.1
+pyarrow==23.0.1
 pycparser==2.23
 pygments==2.19.2
 pylibcudf-cu12==25.8.0
